@@ -1,0 +1,16 @@
+git init
+git add
+git clone
+git commit
+git status
+
+-------------------------------
+
+No cmd:
+
+cd             change directory
+mkdir ou md    make directory
+del            deletando arquivos e pastas
+rd             (remove directory) permite que façamos a exclusão de uma pasta
+ren            renomeando arquivos e pastas
+cls or clear   Limpando a tela
