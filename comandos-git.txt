@@ -1,16 +1,31 @@
 git init
 git add
 git add .
+git push
 git clone
 git commit
-git commit -m
+git commit -m "nome"
 git status
+git branch 
+git branch (staging)
+git checkout (staging)
+
+
+--------------------
+
+//Configuração do sincronismo Git/Github
+
 git config --global user.email "leo@gmail.com"
 git config --global user.name "Meunome"
 git remote add origin (link da publicação no Github)
 git push --set-upstream origin master
+------------------------------------------------------
 
--------------------------------
+//Navegação entre versões ou alterações no arquivo
+
+git reflog
+git reset --hard (number code in front of reflog)
+------------------------------------------------------
 
 No cmd:
 
